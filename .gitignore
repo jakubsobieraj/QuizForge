@@ -84,3 +84,6 @@ local.properties
 **/xcuserdata/
 **/Generated.xcconfig
 **/flutter_export_environment.sh
+
+# Local Netlify folder
+.netlify
